@@ -1,4 +1,5 @@
-/* This file defines our schema and model interface for the account data.
+/* This file defines our schema (definition/blueprint of what data looks like) 
+and model interface for the account data.
 
    We first import bcrypt and mongoose into the file. bcrypt is an industry
    standard tool for encrypting passwords. Mongoose is our tool for
